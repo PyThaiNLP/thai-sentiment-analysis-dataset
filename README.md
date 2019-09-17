@@ -6,3 +6,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 **รายละเอียด**
 - tcas61.csv เป็นไฟล์กำกับข้อความจากแหล่งต่าง ๆ ที่เกี่ยวกับระบบการสอบเข้ามหาลัย TCAS 61 โดยมี 2 tag คือ pos และ neg กำกับโดย นาย วรรณพงษ์ ภัททิยไพบูลย์
 - review_shopping.csv เป็นไฟล์กำกับข้อความรีวิวจากเว็บขายของออนไลน์แห่งหนึ่ง เมื่อปี 2561 โดยมี 2 tag คือ pos และ neg กำกับโดย นาย วรรณพงษ์ ภัททิยไพบูลย์
+- general-amy.csv เป็นไฟล์กำกับข้อความทั่วไป เมื่อปี 2561 โดยมี 2 tag คือ pos และ neg กำกับโดย Kochaporn Ratchatawuttimongkol
